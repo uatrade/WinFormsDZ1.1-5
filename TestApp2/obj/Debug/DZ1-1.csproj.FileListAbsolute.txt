@@ -1,0 +1,19 @@
+C:\Users\Oleksandr\source\repos\TestApp2\TestApp2\bin\Debug\TestApp2.exe.config
+C:\Users\Oleksandr\source\repos\TestApp2\TestApp2\bin\Debug\TestApp2.exe
+C:\Users\Oleksandr\source\repos\TestApp2\TestApp2\bin\Debug\TestApp2.pdb
+C:\Users\Oleksandr\source\repos\TestApp2\TestApp2\obj\Debug\TestApp2.Properties.Resources.resources
+C:\Users\Oleksandr\source\repos\TestApp2\TestApp2\obj\Debug\DZ1-1.csproj.GenerateResource.Cache
+C:\Users\Oleksandr\source\repos\TestApp2\TestApp2\obj\Debug\DZ1-1.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\source\repos\TestApp2\TestApp2\obj\Debug\TestApp2.exe
+C:\Users\Oleksandr\source\repos\TestApp2\TestApp2\obj\Debug\TestApp2.pdb
+C:\Users\Oleksandr\source\repos\TestApp2\TestApp2\obj\Debug\TestApp2.Average.resources
+D:\Академия Шаг\WinForms-C#\WinFormsDZ#1\TestApp2\bin\Debug\TestApp2.exe.config
+D:\Академия Шаг\WinForms-C#\WinFormsDZ#1\TestApp2\bin\Debug\TestApp2.exe
+D:\Академия Шаг\WinForms-C#\WinFormsDZ#1\TestApp2\bin\Debug\TestApp2.pdb
+D:\Академия Шаг\WinForms-C#\WinFormsDZ#1\TestApp2\obj\Debug\DZ1-1.csprojResolveAssemblyReference.cache
+D:\Академия Шаг\WinForms-C#\WinFormsDZ#1\TestApp2\obj\Debug\TestApp2.Average.resources
+D:\Академия Шаг\WinForms-C#\WinFormsDZ#1\TestApp2\obj\Debug\TestApp2.Properties.Resources.resources
+D:\Академия Шаг\WinForms-C#\WinFormsDZ#1\TestApp2\obj\Debug\DZ1-1.csproj.GenerateResource.Cache
+D:\Академия Шаг\WinForms-C#\WinFormsDZ#1\TestApp2\obj\Debug\DZ1-1.csproj.CoreCompileInputs.cache
+D:\Академия Шаг\WinForms-C#\WinFormsDZ#1\TestApp2\obj\Debug\TestApp2.exe
+D:\Академия Шаг\WinForms-C#\WinFormsDZ#1\TestApp2\obj\Debug\TestApp2.pdb

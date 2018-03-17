@@ -1,0 +1,10 @@
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-5\bin\Debug\DZ1-5.exe.config
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-5\bin\Debug\DZ1-5.exe
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-5\bin\Debug\DZ1-5.pdb
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-5\obj\Debug\DZ1-5.csprojResolveAssemblyReference.cache
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-5\obj\Debug\DZ1_5.RunStatic.resources
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-5\obj\Debug\DZ1_5.Properties.Resources.resources
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-5\obj\Debug\DZ1-5.csproj.GenerateResource.Cache
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-5\obj\Debug\DZ1-5.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-5\obj\Debug\DZ1-5.exe
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-5\obj\Debug\DZ1-5.pdb

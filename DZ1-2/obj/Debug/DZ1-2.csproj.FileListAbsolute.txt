@@ -1,0 +1,10 @@
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-2\bin\Debug\DZ1-2.exe.config
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-2\bin\Debug\DZ1-2.exe
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-2\bin\Debug\DZ1-2.pdb
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-2\obj\Debug\DZ1-2.csprojResolveAssemblyReference.cache
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-2\obj\Debug\DZ1_2.Properties.Resources.resources
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-2\obj\Debug\DZ1-2.csproj.GenerateResource.Cache
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-2\obj\Debug\DZ1-2.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-2\obj\Debug\DZ1-2.exe
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-2\obj\Debug\DZ1-2.pdb
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-2\obj\Debug\DZ1_2.GuessNumber.resources

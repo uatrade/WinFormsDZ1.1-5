@@ -1,0 +1,10 @@
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-3\bin\Debug\DZ1-3.exe.config
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-3\bin\Debug\DZ1-3.exe
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-3\bin\Debug\DZ1-3.pdb
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-3\obj\Debug\DZ1_3.Properties.Resources.resources
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-3\obj\Debug\DZ1-3.csproj.GenerateResource.Cache
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-3\obj\Debug\DZ1-3.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-3\obj\Debug\DZ1-3.exe
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-3\obj\Debug\DZ1-3.pdb
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-3\obj\Debug\DZ1-3.csprojResolveAssemblyReference.cache
+C:\Users\Oleksandr\source\repos\TestApp2\DZ1-3\obj\Debug\DZ1_3.ClickInArea.resources
